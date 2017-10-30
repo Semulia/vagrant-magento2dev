@@ -68,3 +68,13 @@ Including:
  username - **root**
  
  password - **root**
+
+ ### Login as root user
+ For login as _root_ user next command:
+ 
+ `sudo su`
+ 
+ ### Login as www-data user
+ For login as _www-data_ user next command:
+ 
+ `sudo su -l www-data -s /usr/bash`
