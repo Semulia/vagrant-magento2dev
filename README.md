@@ -15,6 +15,15 @@ Including:
  - Grunt 1.2.0
  - Gulp 3.9.1
  
+ ## HOW TO USE
+ Change configs in _config.yaml_ file:
+ - hostname
+ - private_ip
+ 
+ Type next commands:
+ - `vagrant plugin install vagrant-hostmanager` (if didn't installed)
+ - `vagrant up`
+ 
  ## Vagrant machine configurations
  You can configurate you machine in _config.yaml_ file.
  
