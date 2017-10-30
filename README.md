@@ -16,7 +16,7 @@ Including:
  - Gulp 3.9.1
  
  ## HOW TO USE
- Change configs in _config.yaml_ file:
+ Change configs in _vagrant/config.yaml_ file:
  - hostname
  - private_ip
  
