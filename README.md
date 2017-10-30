@@ -20,7 +20,7 @@ Including:
  - hostname
  - private_ip
  
- Type next commands:
+ Type next commands in vagrant/ directory:
  - `vagrant plugin install vagrant-hostmanager` (if didn't installed)
  - `vagrant up`
  
