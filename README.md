@@ -1,4 +1,4 @@
-# Vagrant for magento 2 devloping
+# Vagrant for Magento 2 developing
 This vagrant box with environment optimized for Magento 2 developing.
 Including:
  - Debian Jessie 8.6 x64
@@ -55,6 +55,7 @@ Including:
  
  
  ### MySQL
+
  username - **root**
  
  password - **root**
