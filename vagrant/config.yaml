@@ -1,0 +1,3 @@
+hostname: vagrant.sample
+private_ip: 192.168.33.10
+use_nfs: 1
