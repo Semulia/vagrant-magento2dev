@@ -77,4 +77,4 @@ Including:
  ### Login as www-data user
  For login as _www-data_ user next command:
  
- `sudo su -l www-data -s /usr/bash`
+ `sudo su -l www-data -s /bin/bash`
