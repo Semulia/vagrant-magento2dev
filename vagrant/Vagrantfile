@@ -43,7 +43,6 @@ Vagrant.configure("2") do |config|
     config.vm.define configValues['hostname'] do |node|
       node.vm.hostname = configValues['hostname']
       node.vm.network :private_network, ip: configValues['private_ip']
-      node.vm.network :forwarded_port, guest: 22, host: 1234
     end
   end
 end
