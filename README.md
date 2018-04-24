@@ -22,6 +22,7 @@ Including:
  
  Type next commands in vagrant/ directory:
  - `vagrant plugin install vagrant-hostmanager` (if didn't installed)
+ - `vagrant plugin install vagrant-disksize` (if didn't installed)
  - `vagrant up`
  
  ## Vagrant machine configurations
@@ -38,6 +39,12 @@ Including:
   - **use_nfs**
   
   0/1 values, will use or not network file system, strongly reccomend to enable for better permormance
+  - **disk_size**
+  
+  Max disk size of your future machine. Default value 20GB.
+  - **memory_size**
+  
+  Memory allowed to your future machine. Default value 512MB.
   
   ## Directories
   
