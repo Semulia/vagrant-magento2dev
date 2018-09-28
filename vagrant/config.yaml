@@ -1,5 +1,5 @@
 hostname: vagrant.sample
 private_ip: 192.168.33.10
 use_nfs: 1
-disk_size: 20GB
+disk_size: 60GB
 memory_size: 512
