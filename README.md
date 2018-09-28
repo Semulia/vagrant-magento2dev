@@ -41,7 +41,7 @@ Including:
   0/1 values, will use or not network file system, strongly reccomend to enable for better permormance
   - **disk_size**
   
-  Max disk size of your future machine. Default value 20GB.
+  Max disk size of your future machine. Default value 60GB.
   - **memory_size**
   
   Memory allowed to your future machine. Default value 512MB.
